@@ -1,4 +1,4 @@
-# Error-Handling
+# Error-Handling (Defensive Programming)
 
 ## Task 1
 For both the errors.py and errors2.py task files in your folder, open the files and follow these steps:
